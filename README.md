@@ -1,5 +1,9 @@
 # OMX baseline v1 — robot imitation-learning demonstration dataset
 
+## 팀용 데이터 작업실
+
+카메라 미리보기와 시범 영상의 성공·실패 기록을 위한 로컬 대시보드는 [OMX 작업실 사용 안내](omx-dashboard/README.md)를 확인하세요. 팀원 각자의 컴퓨터에서 실행하며 검토 기록은 기본적으로 해당 브라우저에만 저장됩니다.
+
 **Publication:** This GitHub repository is **public**. The project owner reported on 2026-11-09 that the contributing team agreed to publish this OMX demonstration archive. This records the owner's report, **not an independently checked consent or IP-rights agreement**. A formal dataset reuse license has **not yet been selected**. Public access alone does not grant unrestricted redistribution, modification or commercial-use rights.
 
 ## Dataset description
